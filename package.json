@@ -1,0 +1,9 @@
+{
+    "name": "sample-node-app",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"No tests defined\" && exit 0",
+        "build": "echo \"build step (if any)\"",
+        "start": "node server.js"
+    }
+}
